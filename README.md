@@ -4,6 +4,10 @@ Simple CPP library to operate LX-16A, LX-224, LX-15D and other bus link serial s
 
 This library sends simple commands to LewanSoul LX-16A, LX-224 and Hiwonder LX-15D serial bus servos using the BusLinker v2.2.
 
+The original code was designed for the usage on an Arduino and can be found [here](https://github.com/madhephaestus/lx16a-servo).
+The included serial library was taken from [here](https://github.com/imabot2/serialib).
+
+
 ## Requirements
 * cmake
 * make
